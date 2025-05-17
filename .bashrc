@@ -17,3 +17,5 @@ export HYPRCURSOR_SIZE=18
 
 export XCURSOR_THEME=rose-pine-hyprcursor
 export XCURSOR_SIZE=18
+
+alias vivaldi='vivaldi --ozone-platform=wayland --enable-features=UseOzonePlatform --use-cmd-decoder=validating --use-gl=desktop'
